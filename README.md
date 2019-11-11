@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Who am i
+
+My name is Jorrit Kornelis and i am currently a student at Deltion college in the netherlands.
 
 You can use the [editor on GitHub](https://github.com/JorritKornelis/MyWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
