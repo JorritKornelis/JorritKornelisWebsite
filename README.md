@@ -1,10 +1,6 @@
 ## Who am i
 
-My name is Jorrit Kornelis and i am currently a student at Deltion college in the netherlands.
-
-You can use the [editor on GitHub](https://github.com/JorritKornelis/MyWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Jorrit Kornelis and i am currently a student at Deltion college in the netherlands. This site is about my portfolio and all the other things i did for my education.
 
 ### Markdown
 
